@@ -1,7 +1,5 @@
 # EA--Federated-Graph-Contrastive-Learning-and-Nash-Bargaining
 
-**Short description for the code (Repository tagline):**
-
 This repository implements a framework for **agile and fair Enterprise Architecture (EA) analytics** in decentralized environments. EA is modeled as a **federated graph of organizational entities**, where **Graph Attention Networks (GATs)** capture structural dependencies, **contrastive representation learning** produces robust cross-silo embeddings, and **Nash Bargaining** guarantees fairness and stability during federated aggregation. The system effectively functions as a **digital twin of EA**, enabling privacy-preserving, collaborative analytics that improve governance, accountability, and strategic decision-making.
 
 **Paper link (DOI):**
